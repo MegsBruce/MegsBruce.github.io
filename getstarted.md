@@ -50,6 +50,9 @@ Note that in the video above only one setting in the `_config.yml` file is edite
  <style>
  .gs-section-02 h3 { 
      color: white }
+ .gs-section-02 h3 { 
+     font-size: 30px;
+ }
 
 .gs-section-02 p {
      font-size: 20px;
@@ -58,4 +61,19 @@ Note that in the video above only one setting in the `_config.yml` file is edite
      color = black}
  
 </style>
+
+<style>
+
+.gs-section-03 h3 { 
+     color: white }
+ .gs-section-03 h3 { 
+     font-size: 30px;
+ }
+
+.gs-section-03 p {
+     font-size: 20px;
+}
+ .gs-section-03 p {
+     color = black}
+ </style>
 
