@@ -77,3 +77,18 @@ Note that in the video above only one setting in the `_config.yml` file is edite
      color = black}
  </style>
 
+<style>
+
+.gs-section-04 h3 { 
+     color: white }
+ .gs-section-04 h3 { 
+     font-size: 30px;
+ }
+
+.gs-section-04 p {
+     font-size: 10px;
+}
+ .gs-section-04 p {
+     color = black}
+ </style>
+
