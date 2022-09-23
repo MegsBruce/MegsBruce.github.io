@@ -21,6 +21,7 @@ gosling:
   - not ryan reynolds
 ---
 
+![](img/ryan-v-ryan.jpg)  
 
 ![]({{site.url}}/ryan-v-ryan.jpg)  
 
