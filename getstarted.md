@@ -42,7 +42,9 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 }
  .gs-section-01 p {
      color = black}
+ </style>
 
+ <style>
  .gs-section-02 h3 { 
      color: white }
 
