@@ -31,4 +31,15 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 ### 4. Congratulations! You have a website!
  </div> 
  
+ 
+ <style>
+
+.gs-section-01 h3 { 
+     color: white }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
 
