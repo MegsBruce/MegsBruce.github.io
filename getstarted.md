@@ -38,8 +38,19 @@ Note that in the video above only one setting in the `_config.yml` file is edite
      color: white }
 
 .gs-section-01 p {
-     font-size: 30px;
+     font-size: 20px;
 }
+ .gs-section-01 p {
+     color = black}
 
+ .gs-section-02 h3 { 
+     color: white }
+
+.gs-section-02 p {
+     font-size: 20px;
+ }
+ .gs-section-02 p {
+     color = black}
+ 
 </style>
 
