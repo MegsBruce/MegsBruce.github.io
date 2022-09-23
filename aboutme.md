@@ -4,7 +4,7 @@ title: About Me
 subtitle: I'm "gitting" the hang of this.
 ---
 
-![](img/unnamed1.jpg)  
+![]({{site.url}}/assets/img/unnamed1.jpg) 
 
 My name is Megan Bruce. A few of my favorite things:
 
