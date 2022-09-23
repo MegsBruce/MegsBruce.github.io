@@ -1,5 +1,3 @@
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
-
 ---
 layout: liquid-table
 title: 'amiright?'
@@ -27,6 +25,7 @@ gosling:
   - not ryan reynolds
 ---
 
+![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
 
 ## Lorem Ipsum
 
