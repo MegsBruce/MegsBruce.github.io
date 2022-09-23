@@ -36,6 +36,9 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 .gs-section-01 h3 { 
      color: white }
+ .gs-section-01 h3 { 
+     font-size: 30px;
+ }
 
 .gs-section-01 p {
      font-size: 20px;
