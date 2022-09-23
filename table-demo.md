@@ -5,6 +5,7 @@ layout: liquid-table
 title: 'amiright?'
 
 reynolds:
+
 <h4>  Strengths  </h4>
     <ul>
       
