@@ -1,5 +1,3 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
-
 
 # Build your website in 3 steps
 
@@ -92,7 +90,5 @@ Note that in the video above only one setting in the `_config.yml` file is edite
      Font-size: 40px; }
 
 }
-
-
 
 </style>
