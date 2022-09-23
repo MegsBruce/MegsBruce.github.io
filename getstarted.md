@@ -115,9 +115,11 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 <style>
 
 .gs-section-01 h1 { 
-     color: black }
+     color: black 
+}
 .gs-section-01 h1{ 
-     Font-size: 40px; }
+     Font-size: 40px;
+ }
 
 
 .gs-section-01 p {
@@ -129,7 +131,8 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 
 .gs-section-02 h1 { 
-     color: black }
+     color: black
+ }
 
 .gs-section-02 p {
      font-size: 20px;
@@ -140,9 +143,11 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 
 .gs-section-03 h1 { 
-     color: black }
+     color: black 
+  }
 .gs-section-03 h1{ 
-     Font-size: 40px; }
+     Font-size: 40px;
+  }
 
 
 .gs-section-03 p {
@@ -153,7 +158,8 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 }
 
 .gs-section-04 h1 { 
-     color: black }
+     color: black 
+}
 .gs-section-01 h1{ 
      Font-size: 40px; }
 
