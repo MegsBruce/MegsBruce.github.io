@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: I'm "gitting" the hang of this.
 ---
 
@@ -15,6 +15,6 @@ My name is Megan Bruce. A few of my favorite things:
 -The outdoors
 
 
-### Awesome Quote
+### Awesome Quote:
 
 "Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don't turn up at all." - Sam Ewing
