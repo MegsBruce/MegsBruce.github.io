@@ -5,15 +5,7 @@ layout: liquid-table
 title: 'amiright?'
 
 reynolds:
-
-<h4>  Strengths  </h4>
-    <ul>
-      
-      {% for item in page.reynolds.strengths %}
-         <li>{{ item }}</li>
-      {% endfor %}
-      
-    </ul>
+   Strengths:
   - good father
   - funny
   - dated alanis morissette
