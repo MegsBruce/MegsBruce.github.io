@@ -71,7 +71,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
  }
 
 .gs-section-03 p {
-     font-size: 15px;
+     font-size: 20px;
 }
  .gs-section-03 p {
      color = DarkSlateGrey}
@@ -93,7 +93,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
  
  <style>
 
- .gs-section-04 p {
+ .gs-section-03 p {
      color = DarkSlateGrey}
  
  </style>
